@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Projet POO\Projet POO\Debug\Projet POO.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Projet POO\Projet POO\Debug\ProjetPOO.ProjetPOO.resources
+C:\Users\ASUS\source\repos\Projet POO\Projet POO\Debug\Projet POO.vcxproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Projet POO\Projet POO\Debug\ProjetPOO.Personnel.resources
+C:\Users\ASUS\source\repos\Projet POO\Projet POO\Debug\ProjetPOO.CreeunPersonnel.resources
+C:\Users\ASUS\source\repos\Projet POO\Projet POO\Debug\ProjetPOO.Login.resources
+C:\Users\ASUS\source\repos\Projet POO\Projet POO\Debug\ProjetPOO.Client.resources
+C:\Users\ASUS\source\repos\Projet POO\Projet POO\Debug\ProjetPOO.AddClient.resources
+C:\Users\ASUS\Downloads\projet poo\Projet POO\Debug\Projet POO.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\projet poo\Projet POO\Debug\ProjetPOO.AddClient.resources
+C:\Users\ASUS\Downloads\projet poo\Projet POO\Debug\ProjetPOO.Client.resources
+C:\Users\ASUS\Downloads\projet poo\Projet POO\Debug\ProjetPOO.CreeunPersonnel.resources
+C:\Users\ASUS\Downloads\projet poo\Projet POO\Debug\ProjetPOO.Login.resources
+C:\Users\ASUS\Downloads\projet poo\Projet POO\Debug\ProjetPOO.Personnel.resources
+C:\Users\ASUS\Downloads\projet poo\Projet POO\Debug\ProjetPOO.ProjetPOO.resources
+C:\Users\ASUS\Downloads\projet poo\Projet POO\Debug\Projet POO.vcxproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\projet poo\Projet POO\Debug\ProjetPOO.ListeClient.resources

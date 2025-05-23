@@ -1,0 +1,31 @@
+﻿  AddClient.cpp
+  Client.cpp
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(32,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Select' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(32,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(33,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Insert' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(33,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(34,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Delete' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(34,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(35,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Update' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(35,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+  ListeClient.cpp
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(32,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Select' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(32,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(33,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Insert' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(33,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(34,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Delete' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(34,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(35,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Update' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(35,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+  ProjetPOO.cpp
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(32,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Select' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(32,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(33,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Insert' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(33,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(34,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Delete' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(34,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(35,21): warning C4490: 'override' : utilisation incorrecte du spécificateur de substitution ; 'CLclient::Update' ne correspond pas à une méthode de classe ref de base
+C:\Users\ASUS\Downloads\projet poo\Projet POO\CLclient.h(35,21): message : 'new' ou 'override' sont autorisés uniquement lorsqu'une méthode de base correspondante existe à partir d'une classe ref
+  Génération de code en cours...
+  AddClient.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  Projet POO.vcxproj -> C:\Users\ASUS\Downloads\projet poo\Debug\Projet POO.exe

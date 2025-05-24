@@ -1,4 +1,4 @@
-# Inventory and Order Management Application – UML Design & OOP Architecture Development
+# Inventory and Order Management Application 
 
 ## 🧠 Project Overview
 
